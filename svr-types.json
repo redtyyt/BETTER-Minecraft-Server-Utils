@@ -1,18 +1,22 @@
 [
   {
     "name": "Spigot/Bukkit",
-    "latest_version": "1.21.8"
+    "latest_version": "1.21.8",
+    "dwn_url": ""
   },
   {
     "name": "Paper/Bukkit",
-    "latest_version": "1.21.8"
+    "latest_version": "1.21.8",
+    "dwn_url": "https://fill-data.papermc.io/v1/objects/c4fdb280847a142761a4e3251a4c8be4342c7139f4d91e042960a48463a4b5fd/paper-1.21.10-105.jar"
   },
   {
     "name": "FabricMC",
-    "latest_version": "1.21.8"
+    "latest_version": "1.21.10",
+    "dwn_url": "https://meta.fabricmc.net/v2/versions/loader/1.21.10/0.17.3/1.1.0/server/jar"
   },
   {
     "name": "Vanilla (disabled)",
-    "latest_version": "NONE"
+    "latest_version": "NONE",
+    "dwn_url": "https://piston-data.mojang.com/v1/objects/95495a7f485eedd84ce928cef5e223b757d2f764/server.jar"
   }
 ]
